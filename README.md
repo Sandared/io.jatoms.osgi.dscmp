@@ -1,6 +1,6 @@
 # OSGi Declarative Services
 
-This repository is just a showcase on how simple it is to get your first OSGi component working within 5 minutes... depending on how fast Maven is able to download the internet ;)
+This repository is just a showcase on advanced OSGi components within 5 minutes... depending on how fast Maven is able to download the internet ;)
 
 ![TODO](Banner)
 
