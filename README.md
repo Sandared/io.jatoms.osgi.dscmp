@@ -22,7 +22,14 @@ This repository is just a showcase on advanced OSGi components within 5 minutes.
 1) TODO
 
 ## What's going on behind the curtains?
-TODO
+
+
+
+### (Enhanced) ComponentPropertyTypes
+
+### Activation Types
+
+### Activation Fields
 
 
 ## Conclusion
