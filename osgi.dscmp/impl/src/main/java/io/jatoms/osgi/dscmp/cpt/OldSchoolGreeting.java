@@ -1,4 +1,4 @@
-package io.jatoms.osgi.dscmp;
+package io.jatoms.osgi.dscmp.cpt;
 
 import java.util.Map;
 

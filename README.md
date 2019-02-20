@@ -23,13 +23,26 @@ This repository is just a showcase on advanced OSGi components within 5 minutes.
 
 ## What's going on behind the curtains?
 
+### Lifecycle Methods
+What are they, which one exist, what can I do with them?
+* beware of exceptions in them!
+* no blocking/long running operations
+
+#### Lifecycle Method Parameter Injection
+Which ones can I use? What are they good for?
+
+#### Activation Fields
+DS 1.4
+
+### Component Properties
+What are they? What are they good for?
+
+#### Component Property Types
+
+#### Enhanced Component Property Types
 
 
-### (Enhanced) ComponentPropertyTypes
 
-### Activation Types
-
-### Activation Fields
 
 
 ## Conclusion
