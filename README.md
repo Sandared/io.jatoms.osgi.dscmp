@@ -28,22 +28,22 @@ What are they, which one exist, what can I do with them?
 * beware of exceptions in them!
 * no blocking/long running operations
 
-#### Lifecycle Method Parameter Injection
+#### @Activate
+#### @Deactivate
+#### @Modified
+
+#### Lifecycle Method Parameters
 Which ones can I use? What are they good for?
+
+##### BundleContext
+##### ComponentContext
+##### Property Map
+##### ComponentPropertyTypes
+##### Enhanced ComponentPropertyTypes
+
 
 #### Activation Fields
 DS 1.4
-
-### Component Properties
-What are they? What are they good for?
-
-#### Component Property Types
-
-#### Enhanced Component Property Types
-
-
-
-
 
 ## Conclusion
 TODO
