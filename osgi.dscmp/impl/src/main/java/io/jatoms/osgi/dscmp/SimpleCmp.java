@@ -1,4 +1,4 @@
-package io.jatoms.osgi.dscmp.anno;
+package io.jatoms.osgi.dscmp;
 
 import org.osgi.service.component.annotations.Activate;
 import org.osgi.service.component.annotations.Component;
